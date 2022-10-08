@@ -18,7 +18,7 @@ export default function EventForm({ setFormOpen }) {
           onClick={() => setFormOpen(false)}
           type='submit'
           floated='right'
-          content='Cansel'
+          content='Cansell'
         />
       </Form>
     </Segment>
